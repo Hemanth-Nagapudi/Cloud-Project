@@ -10,7 +10,7 @@ Parameters:
   GitHubRepo:
     Type: String
     Description: URL of the GitHub repository to clone
-    Default: "https://github.com/Hemanth-Nagapudi/Cloud-Project.git"
+    Default: "https://github.com/Hemanth-Nagapudi/Cloud-Project"
   SubnetId:
     Type: AWS::EC2::Subnet::Id
     Description: Subnet ID for the SageMaker domain
