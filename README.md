@@ -1,1 +1,1 @@
-# Cloud-Project
+# Final Project repository for Cloud Computing
