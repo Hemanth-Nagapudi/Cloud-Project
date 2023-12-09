@@ -159,7 +159,7 @@ Resources:
       GroupDescription: Security Group for the public subnet
       VpcId: !Ref VPC
       SecurityGroupIngress:
-        - CidrIp: 73.209.144.92/32   # Replace YOUR_IP_ADDRESS with your actual IP address
+        - CidrIp: 98.201.162.172/32   # Replace YOUR_IP_ADDRESS with your actual IP address
           IpProtocol: -1
       SecurityGroupEgress:
         - CidrIp: 0.0.0.0/0
