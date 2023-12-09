@@ -48,7 +48,7 @@ Resources:
           sudo git clone ${GitHubRepo}
           
           # Change to the repository directory
-          cd recommendation-engine-full-stack
+          cd Cloud-Project
           
           # Fetch and pull LFS objects
           sudo git lfs fetch origin main
